@@ -1,2 +1,3 @@
-# spring-boot-jdbc
-Spring Boot JDBC Example
+# Spring Boot JDBC Example
+
+Trying out Spring Boot with JDBC.
